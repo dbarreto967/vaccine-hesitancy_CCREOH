@@ -1,1 +1,2 @@
 # vaccine-hesitancy_CCREOH
+Code for statistical analyses. Used for: comparison of demographic variables by maternal intentions to vaccinate their children against COVID-19, and reasons for COVID-19 vaccination acceptance or refusal. The data is available on request from the corresponding authors (delmalizbarreto@gmail.com and mlichtve@pitt.edu) with prior consultation with the Office of Sponsored Programs of the University of Pittsburgh.
